@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/about/css/page.css","2fde7279adc97cefd5399444158ac03a"],["/about/css/style.min.css","16a4cc20ac2ecce2dfd8bc11dcf43592"],["/about/css/vue-pdf.css","87f334c6ccfc3a397bf773e2f22a6767"],["/about/index.html","9cd7941a826c4984f8b9e1ba3a25829c"],["/about/js/common.js","ae798d30af603c3cbf2fa6549151dd0b"],["/about/js/css.escape.js","fe4db48c9e3f272a6d12cf1312de889e"],["/about/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"],["/about/zh-cn/index.html","f9009fe751a36381b8f3c8a3eeefbd90"]];
+var precacheConfig = [["/about/css/page.css","2fde7279adc97cefd5399444158ac03a"],["/about/css/style.min.css","16a4cc20ac2ecce2dfd8bc11dcf43592"],["/about/css/vue-pdf.css","87f334c6ccfc3a397bf773e2f22a6767"],["/about/index.html","ca67b24249dab958c0019112a9665ee2"],["/about/js/common.js","ae798d30af603c3cbf2fa6549151dd0b"],["/about/js/css.escape.js","fe4db48c9e3f272a6d12cf1312de889e"],["/about/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"],["/about/zh-cn/index.html","443b181c566305e74f9d58442fced04e"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
